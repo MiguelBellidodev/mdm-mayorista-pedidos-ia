@@ -1,4 +1,4 @@
--- Schema para MDM Mayorista
+-- Schema para MDM Mayorista - Sistema de Pedidos y Catálogo con IA
 CREATE TABLE IF NOT EXISTS productos (
   id SERIAL PRIMARY KEY,
   nombre VARCHAR(255) NOT NULL,
