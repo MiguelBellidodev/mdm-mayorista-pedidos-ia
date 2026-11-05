@@ -1,13 +1,13 @@
 # MDM Mayorista - Sistema de Pedidos y Catálogo con IA
 
-> Cliente: MDM Mayorista (Córdoba Capital)
-> Presupuesto: .400.000 ARS
+> Cliente: MDM Mayorista (Av. Juan B. Justo 3636, Córdoba Capital)
+> Presupuesto: $2.400.000 ARS
 > Desarrollado de forma autónoma por la Agencia Miguel Bellido AI
 
 ## 🚀 Despliegue en Producción
-- URL Vercel: https://mdm-mayorista-pedidos-ia.vercel.app
+- Vercel URL: https://mdm-mayorista-pedidos-ia.vercel.app
 
-## 👥 Equipo de Agentes Asignados
+## 👥 Equipo Técnico Asignado
 - Lucas: Frontend React 19 + Tailwind CSS
 - Mateo: Endpoints API REST y base de datos
 - Sofía: Automatización n8n y CI/CD en Vercel
